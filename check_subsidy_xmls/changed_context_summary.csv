@@ -1,0 +1,343 @@
+﻿department,scenario_file,sector,subsector,technology,node_type,changed_count
+aluminum,aluminum_T2025_S10.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S10.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S10.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S10.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S10.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S10.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S35.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2025_S60.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+aluminum,aluminum_T2035_S10.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S10.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S10.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S10.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S10.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S10.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S35.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2035_S60.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+aluminum,aluminum_T2045_S10.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S10.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S10.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S10.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S10.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S10.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S35.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,biomass,biomass,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,coal,coal CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,gas,gas CCS,tracking-non-energy-input/input-cost,12
+aluminum,aluminum_T2045_S60.xml,alumina,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+cement,cement_T2025_S10.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,16
+cement,cement_T2025_S10.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,16
+cement,cement_T2025_S10.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,16
+cement,cement_T2025_S35.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,16
+cement,cement_T2025_S35.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,16
+cement,cement_T2025_S35.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,16
+cement,cement_T2025_S60.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,16
+cement,cement_T2025_S60.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,16
+cement,cement_T2025_S60.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,16
+cement,cement_T2035_S10.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,14
+cement,cement_T2035_S10.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,14
+cement,cement_T2035_S10.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,14
+cement,cement_T2035_S35.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,14
+cement,cement_T2035_S35.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,14
+cement,cement_T2035_S35.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,14
+cement,cement_T2035_S60.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,14
+cement,cement_T2035_S60.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,14
+cement,cement_T2035_S60.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,14
+cement,cement_T2045_S10.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,12
+cement,cement_T2045_S10.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,12
+cement,cement_T2045_S10.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,12
+cement,cement_T2045_S35.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,12
+cement,cement_T2045_S35.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,12
+cement,cement_T2045_S35.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,12
+cement,cement_T2045_S60.xml,cement,cement,cement CCS,minicam-non-energy-input/input-cost,12
+cement,cement_T2045_S60.xml,process heat cement,biomass,biomass,tracking-non-energy-input/capital-coef,12
+cement,cement_T2045_S60.xml,process heat cement,hydrogen,hydrogen,tracking-non-energy-input/capital-coef,12
+chemical,chemical_T2025_S10.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S10.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S35.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2025_S60.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,16
+chemical,chemical_T2035_S10.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S10.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S35.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2035_S60.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,14
+chemical,chemical_T2045_S10.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S10.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S35.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,biomass,biomass CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,coal,coal CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,gas,gas CCS,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
+chemical,chemical_T2045_S60.xml,chemical energy use,refined liquids,refined liquids CCS,tracking-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2025_S10.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S10.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S10.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S35.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S35.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S35.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S60.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S60.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2025_S60.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,16
+en_Fert,en_Fert_T2035_S10.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S10.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S10.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S35.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S35.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S35.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S60.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S60.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2035_S60.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,14
+en_Fert,en_Fert_T2045_S10.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S10.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S10.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S35.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S35.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S35.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S60.xml,ammonia,coal,coal CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S60.xml,ammonia,gas,gas CCS,minicam-non-energy-input/input-cost,12
+en_Fert,en_Fert_T2045_S60.xml,ammonia,hydrogen,hydrogen,minicam-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S10.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S35.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,512
+iron_steel,iron_steel_T2025_S60.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,16
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S10.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S35.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,448
+iron_steel,iron_steel_T2035_S60.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,14
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S10.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S35.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,BLASTFUR with hydrogen,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,Biomass-based,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,BLASTFUR,Biomass-based,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,EAF with DRI,EAF with DRI CCS,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,EAF with DRI,Hydrogen-based DRI,tracking-non-energy-input/input-cost,12
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,EAF with scrap,EAF with scrap,minicam-non-energy-input/input-cost,384
+iron_steel,iron_steel_T2045_S60.xml,iron and steel,EAF with scrap,EAF with scrap,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2025_S10.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S10.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S10.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S10.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S10.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S35.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S35.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S35.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S35.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S35.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S60.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S60.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S60.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S60.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2025_S60.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,16
+other_industry,other_industry_T2035_S10.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S10.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S10.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S10.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S10.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S35.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S35.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S35.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S35.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S35.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S60.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S60.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S60.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S60.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2035_S60.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,14
+other_industry,other_industry_T2045_S10.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S10.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S10.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S10.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S10.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S35.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S35.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S35.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S35.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S35.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S60.xml,other industrial energy use,biomass,biomass,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S60.xml,other industrial energy use,biomass,biomass cogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S60.xml,other industrial energy use,electricity,electricity,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S60.xml,other industrial energy use,hydrogen,hydrogen,tracking-non-energy-input/input-cost,12
+other_industry,other_industry_T2045_S60.xml,other industrial energy use,hydrogen,hydrogen cogen,tracking-non-energy-input/input-cost,12
