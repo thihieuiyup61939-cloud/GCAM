@@ -1,0 +1,264 @@
+This computer software was prepared by Battelle Memorial Institute,
+hereinafter the Contractor, under Contract No. DE-AC05-76RL0 1830 with
+the Department of Energy (DOE). NEITHER THE GOVERNMENT NOR THE
+CONTRACTOR MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY
+LIABILITY FOR THE USE OF THIS SOFTWARE. This notice including this
+sentence must appear on any copies of this computer software.
+
+User agrees that the Software will not be shipped, transferred or
+exported into any country or used in any manner prohibited by the United
+States Export Administration Act or any other applicable export laws,
+restrictions or regulations (collectively the 'Export Laws'). Export of
+the Software may require some form of license or other authority from
+the U.S. Government, and failure to obtain such export control license
+may result in criminal liability under U.S. laws. In addition, if the
+Software is identified as export controlled items under the Export Laws,
+User represents and warrants that User is not a citizen, or otherwise
+located within, an embargoed nation (including without limitation Iran,
+Syria, Sudan, Cuba, and North Korea) and that User is not otherwise
+prohibited under the Export Laws from receiving the Software.
+
+Copyright 2011 Battelle Memorial Institute.  All Rights Reserved.
+Distributed as open-source under the terms of the Educational Community
+License version 2.0 (ECL 2.0). http://www.opensource.org/licenses/ecl2.php
+
+For further details, see: http://www.globalchange.umd.edu/models/gcam/
+
+Running GCAM model code base version 8.2 revision gcam-v8.2
+
+Configuration file:  configuration_captax_2025_s60.xml
+Parsing input files...
+Parsing ../input/gcamdata/xml/hector.xml scenario component.
+Parsing ../input/gcamdata/xml/socioeconomics_SSP2.xml scenario component.
+Parsing ../input/gcamdata/xml/resources.xml scenario component.
+Parsing ../input/gcamdata/xml/resources_SSP2.xml scenario component.
+Parsing ../input/gcamdata/xml/en_supply.xml scenario component.
+Parsing ../input/gcamdata/xml/en_transformation.xml scenario component.
+Parsing ../input/gcamdata/xml/electricity_water.xml scenario component.
+Parsing ../input/gcamdata/xml/heat.xml scenario component.
+Parsing ../input/gcamdata/xml/hydrogen.xml scenario component.
+Parsing ../input/gcamdata/xml/en_distribution.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/other_industry/other_industry_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/other_industry_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/iron_steel/iron_steel_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/iron_steel_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml/iron_steel_trade.xml scenario component.
+Parsing ../input/gcamdata/xml/Off_road.xml scenario component.
+Parsing ../input/gcamdata/xml/Off_road_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/chemical/chemical_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/chemical_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/aluminum/aluminum_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/aluminum_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml/paper.xml scenario component.
+Parsing ../input/gcamdata/xml/paper_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml/food_processing.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/cement/cement_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/cement_incelas_ssp2.xml scenario component.
+Parsing ../input/gcamdata/xml_subsidy_by_industry/en_Fert/en_Fert_T2025_S60.xml scenario component.
+Parsing ../input/gcamdata/xml/HDDCDD_constdd_no_GCM.xml scenario component.
+Parsing ../input/gcamdata/xml/building_det.xml scenario component.
+Parsing ../input/gcamdata/xml/transportation_UCD_CORE.xml scenario component.
+Parsing ../input/gcamdata/xml/Ccoef.xml scenario component.
+Parsing ../input/gcamdata/xml/Cstorage.xml scenario component.
+Parsing ../input/gcamdata/xml/ccs_supply_low.xml scenario component.
+Parsing ../input/gcamdata/xml/no_offshore_ccs.xml scenario component.
+Parsing ../input/gcamdata/xml/onshore_wind.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_For_Past_bio_base_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_cost_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_prodchange_ref_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_prodchange_ssp2_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/resbio_input_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/an_input.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_Fert_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/land_input_1.xml scenario component.
+Parsing ../input/gcamdata/xml/land_input_2.xml scenario component.
+Parsing ../input/gcamdata/xml/land_input_3_IRR.xml scenario component.
+Parsing ../input/gcamdata/xml/land_input_4_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/land_input_5_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/protected_land_input_2.xml scenario component.
+Parsing ../input/gcamdata/xml/protected_land_input_3.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_an_demand_input.xml scenario component.
+Parsing ../input/gcamdata/xml/paper_delete_ag_demand.xml scenario component.
+Parsing ../input/gcamdata/xml/bio_trade.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_trade.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_storage.xml scenario component.
+Parsing ../input/gcamdata/xml/unlimited_water_supply.xml scenario component.
+Parsing ../input/gcamdata/xml/water_supply_constrained.xml scenario component.
+Parsing ../input/gcamdata/xml/desalination.xml scenario component.
+Parsing ../input/gcamdata/xml/water_td.xml scenario component.
+Parsing ../input/gcamdata/xml/EFW_input_coefs.xml scenario component.
+Parsing ../input/gcamdata/xml/EFW_irrigation.xml scenario component.
+Parsing ../input/gcamdata/xml/EFW_manufacturing.xml scenario component.
+Parsing ../input/gcamdata/xml/EFW_municipal.xml scenario component.
+Parsing ../input/gcamdata/xml/EFW_WWtrt_coefs_SSP2.xml scenario component.
+Parsing ../input/gcamdata/xml/ag_water_input_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/electricity_water_coefs.xml scenario component.
+Parsing ../input/gcamdata/xml/water_demand_industry.xml scenario component.
+Parsing ../input/gcamdata/xml/water_demand_livestock.xml scenario component.
+Parsing ../input/gcamdata/xml/water_demand_municipal.xml scenario component.
+Parsing ../input/gcamdata/xml/water_demand_primary.xml scenario component.
+Parsing ../input/gcamdata/xml/ind_urb_processing_sectors.xml scenario component.
+Parsing ../input/gcamdata/xml/all_energy_emissions.xml scenario component.
+Parsing ../input/gcamdata/xml/all_fgas_emissions.xml scenario component.
+Parsing ../input/gcamdata/xml/all_unmgd_emissions.xml scenario component.
+Parsing ../input/gcamdata/xml/all_aglu_emissions_IRR_MGMT.xml scenario component.
+Parsing ../input/gcamdata/xml/all_protected_unmgd_emissions.xml scenario component.
+Parsing ../input/gcamdata/xml/emission_factor_controls.xml scenario component.
+Parsing ../input/gcamdata/xml/ssp2_emissions_factors_tradBio.xml scenario component.
+Parsing ../input/gcamdata/xml/all_energy_emissions_MAC.xml scenario component.
+Parsing ../input/gcamdata/xml/all_fgas_emissions_MAC.xml scenario component.
+Parsing ../input/gcamdata/xml/all_aglu_emissions_IRR_MGMT_MAC.xml scenario component.
+Parsing ../input/gcamdata/xml/ind_urb_processing_sectors_MAC.xml scenario component.
+Parsing ../input/gcamdata/xml/delete_gdp_control.xml scenario component.
+Parsing ../input/gcamdata/xml/ssp2_emissions_factors.xml scenario component.
+Parsing ../input/gcamdata/xml/MACC_TC_SSP2.xml scenario component.
+Parsing ../input/gcamdata/xml/socioeconomics_macro.xml scenario component.
+Parsing ../input/gcamdata/xml/liquids_limits.xml scenario component.
+Parsing ../input/gcamdata/xml/water_elec_liquids_limits.xml scenario component.
+Parsing ../input/gcamdata/xml/bio_externality.xml scenario component.
+Parsing ../input/gcamdata/xml/gas_trade.xml scenario component.
+Parsing ../input/gcamdata/xml/prune_empty_ag.xml scenario component.
+Parsing ../input/policy/carbon_tax_cap.xml scenario component.
+Parsing ../input/solution/cal_broyden_config.xml scenario component.
+XML parsing complete.
+Starting new scenario: CAPTAX_T2025_S60
+Thu May 28 21:16:10 2026:WARNING:Hector::Logger::printLogHeader: hector version 3.2.0
+Thu May 28 21:16:10 2026:WARNING:Hector::Logger::printLogHeader: hector version 3.2.0
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Could not delete node gdp-control as it does not exist.
+Starting a model run. Running all periods.
+Model run beginning.
+Period 0: 1975
+Model solved with last period's prices.
+
+Period 1: 1990
+Model solved normally. Iterations period 1: 298. Total iterations: 299
+
+Period 2: 2005
+Model solved normally. Iterations period 2: 163. Total iterations: 461
+
+Period 3: 2010
+Model solved normally. Iterations period 3: 237. Total iterations: 698
+
+Period 4: 2015
+Model solved normally. Iterations period 4: 198. Total iterations: 896
+
+Period 5: 2021
+Model solved normally. Iterations period 5: 155. Total iterations: 1050
+
+Period 6: 2025
+Model solved normally. Iterations period 6: 1218. Total iterations: 2268
+
+Period 7: 2030
+Model solved normally. Iterations period 7: 426. Total iterations: 2694
+
+Period 8: 2035
+Model solved normally. Iterations period 8: 489. Total iterations: 3182
+
+Period 9: 2040
+Model solved normally. Iterations period 9: 221. Total iterations: 3403
+
+Period 10: 2045
+Model solved normally. Iterations period 10: 231. Total iterations: 3633
+
+Period 11: 2050
+Model solved normally. Iterations period 11: 200. Total iterations: 3833
+
+Period 12: 2055
+Model solved normally. Iterations period 12: 204. Total iterations: 4037
+
+Period 13: 2060
+Model solved normally. Iterations period 13: 364. Total iterations: 4400
+
+Period 14: 2065
+Model solved normally. Iterations period 14: 217. Total iterations: 4617
+
+Period 15: 2070
+Model solved normally. Iterations period 15: 195. Total iterations: 4812
+
+Period 16: 2075
+Model solved normally. Iterations period 16: 197. Total iterations: 5009
+
+Period 17: 2080
+Model solved normally. Iterations period 17: 323. Total iterations: 5331
+
+Period 18: 2085
+Model solved normally. Iterations period 18: 204. Total iterations: 5535
+
+Period 19: 2090
+Model solved normally. Iterations period 19: 265. Total iterations: 5800
+
+Period 20: 2095
+Model solved normally. Iterations period 20: 194. Total iterations: 5993
+
+Period 21: 2100
+Model solved normally. Iterations period 21: 182. Total iterations: 6174
+
+All model periods solved correctly.
+Thu May 28 21:22:42 2026:WARNING:Hector::Logger::printLogHeader: hector version 3.2.0
+Model run completed.
+Printing output
+Starting output to XML Database.
+org.basex.core.BaseXException: Resource "D:\gcam_g\output\database_captax_basexdb\inf.basex" not found.
+	at org.basex.core.Command.execute(Command.java:94)
+	at org.basex.core.Command.execute(Command.java:116)
+	at WriteLocalBaseXDB.openDB(WriteLocalBaseXDB.java:204)
+	at WriteLocalBaseXDB.<init>(WriteLocalBaseXDB.java:115)
+	at XMLDBDriver.<init>(XMLDBDriver.java:110)
+java.io.IOException: Pipe not connected
+	at java.io.PipedOutputStream.write(PipedOutputStream.java:140)
+	at XMLDBDriver.receiveDataFromGCAM(XMLDBDriver.java:228)
+Model run completed.
+Model exiting successfully.
